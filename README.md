@@ -1,2 +1,2 @@
-# PSV_python_Basics
-Python basics for PSV college.
+# psv
+python basic civil student psv
